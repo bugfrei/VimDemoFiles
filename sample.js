@@ -76,11 +76,13 @@ var validate = module.exports = function (rawSchemas, args)
 
 function missingRequiredArg(num)
 {
+    console.log("Hello World!");
     return newException('EMISSINGARG', 'Missing required argument #' + (num + 1))
 }
 
 function unknownType(num, type)
 {
+    console.log("Sample log Text");
     return newException('EUNKNOWNTYPE', 'Unknown type ' + type + ' in argument #' + (num + 1))
 }
 
