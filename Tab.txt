@@ -1,0 +1,27 @@
+Kein Tabulator
+	1 Tab
+	1 Tab
+	1 Tab
+		2 Tab
+		2 Tab
+		2 Tab
+			3 Tab
+			3 Tab
+			3 Tab
+		2 Tab
+		2 Tab
+		2 Tab
+	1 Tab
+	1 Tab
+	1 Tab
+Kein Tabulator
+
+Ein	Wort	Und	Je	Ein	Tab
+
+int a = 		10
+int b = 		20
+int c =			30
+string vorname =	"Hallo"
+string defaultSetting = "empty"
+
+Um (Klammern werden lesbar markiert)

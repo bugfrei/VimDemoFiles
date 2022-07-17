@@ -1,0 +1,2 @@
+Die Eingabe im Einfügemodus erweitert die Zeile. Im Ersetzungsmodus
+hingegen ändert sich die Zeilenlänge nicht.

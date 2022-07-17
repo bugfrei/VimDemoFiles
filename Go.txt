@@ -1,0 +1,29 @@
+Zeichen anzeigen: ga   $ -> <$>  36,  Hex 24,  Oktal 044, Digr DO
+-------------------------------------------------------------------------
+Groß/Klein mit Bewegung: f> g~it    <a>iNNERHALB DES tAGS ÄNDERN</a>
+Natürlich geht dies auch mit gu{bew} oder gU{bew}
+z.B. guiw, gui"
+    KLEIN, "ALLE IN ANFÜHRUNGSZEICHEN KLEIN MACHEN"
+-------------------------------------------------------------------------
+Datei öffnen: gf   (Go File: code.cs)
+-------------------------------------------------------------------------
+Go Definition: gd
+public void Test()
+{
+}
+
+Test
+-------------------------------------------------------------------------
+Auswahl wie in Editoren:    gh
+Danach Bereich mit den ! CURSOR TASTEN ! markieren. Schreiben ersetzt
+den Text!
+-------------------------------------------------------------------------
+Nächsten gefundenen Text markieren (wie n/N nur wird markiert):  gn  / gN
+1. Suchen nach WORT
+2. Da WORT mehrmal vorkommt
+3. Kann WORT auch mehrmal angesprungen werden
+4. Also WORT mit gn oder gN anspringen und gleich markieren.
+
+Es wird immer das nächste WORT (gn) ab Cursorposition oder das
+vorherige WORT (gN) gesucht und markiert.
+-------------------------------------------------------------------------

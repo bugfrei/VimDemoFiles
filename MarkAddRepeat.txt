@@ -1,0 +1,33 @@
+Zahlen in einer Tabelle ändern: <C-V>, markieren, Strg+A
+Januar:    20
+Februar:   13
+März:      34
+April:     11
+Mai:       21
+Juni:      31
+Juli:      41
+
+Danach mit . wiederholen bis die gewünschten Werte erreicht sind.
+Falls einmal zu oft ., dann mit u Undo
+Strg+X (Bzw. Strg+Shift+X) verringert.
+-------------------------------------------------------------------------
+Mehrere Zeichen gleichzeitig tauschen: r{z} im VISUEL
+
+Markiere Text "in Anführungszeichen", dann r- und alles sind Bindestriche
+Also: vi"r-
+-------------------------------------------------------------------------
+Block-Markieren, Ändern für alle Zeilen: <C-V> Bereich markieren
+dann c für Change, (1. Zeichen wird gelöscht!) Text eingeben. Esc
+Und schon wurde es in allen Zeilen geändert:
+Geile 1
+Geile 2
+Geile 3
+Geile 4
+Geile 5
+
+Alle G in der 5 Zeilen markieren, cZ<ESC>
+Nun nochmal den Block markieren (egal wie Breit).
+<C-v>4j$A;<Esc>
+und schon steht am Ende ein ; in jeder Zeile.
+-------------------------------------------------------------------------
+

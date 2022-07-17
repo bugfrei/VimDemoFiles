@@ -1,0 +1,3 @@
+Sie müssen für jedes Arg einen Wert übergeben.
+Das Arg erwartet eine positive ganze Zahl als Wert.
+Der Wert des Args darf nicht null sein.

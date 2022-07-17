@@ -1,0 +1,4 @@
+Kapitel                 Seite
+normaler Modus            15
+Einfügemodus              31
+visueller Modus           44

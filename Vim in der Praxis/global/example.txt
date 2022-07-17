@@ -1,0 +1,5 @@
+Globale Befehle
+
+    Zeilen, die ein Muster enthalten, auswählen oder verwerfen
+
+    TODO-Elemente in einem Register zusammenziehen

@@ -1,0 +1,3 @@
+Dieser Text enthält ein Wort in 'Anführungszeichen'.
+Dieser Text enthält 'zwei' Wörter in 'Anführungszeichen'.
+Dieser 'Text macht's uns erheblich schwerer'.
